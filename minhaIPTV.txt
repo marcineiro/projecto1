@@ -888,3 +888,56 @@ http://csrv.tv:80/series/p3C9n/R2XWy/25925.mp4
 #EXTINF:-1 tvg-logo="http://a5.vc/gBy" group-title="Series | Dragon Ball Z",Dragon Ball Z S09 E37
 http://csrv.tv:80/series/p3C9n/R2XWy/25926.mp4
 #EXTINF:-1 tvg-logo="http://a5.vc/gBy" group-title="Series | Dragon Ball Z",Dragon Ball Z S09 E38
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 FHD
+http://csrv.tv:80/live/p3C9n/R2XWy/1930.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 FHD [H265]
+http://csrv.tv:80/live/p3C9n/R2XWy/25419.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 FHD [H265] [Alter]
+http://csrv.tv:80/live/p3C9n/R2XWy/29439.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 HD
+http://csrv.tv:80/live/p3C9n/R2XWy/1729.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 HD [Alter]
+http://csrv.tv:80/live/p3C9n/R2XWy/2332.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 SD
+http://csrv.tv:80/live/p3C9n/R2XWy/1730.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 SD [Alter]
+http://csrv.tv:80/live/p3C9n/R2XWy/2155.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 FHD
+http://csrv.tv:80/live/p3C9n/R2XWy/1929.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 FHD [H265]
+http://csrv.tv:80/live/p3C9n/R2XWy/25418.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 FHD [H265] [Alter]
+http://csrv.tv:80/live/p3C9n/R2XWy/29438.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 HD
+http://csrv.tv:80/live/p3C9n/R2XWy/1727.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 HD [Alter]
+http://csrv.tv:80/live/p3C9n/R2XWy/2331.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 SD
+http://csrv.tv:80/live/p3C9n/R2XWy/1728.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 SD [Alter]
+http://csrv.tv:80/live/p3C9n/R2XWy/2131.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | 4K",SporTV 4K
+http://csrv.tv:80/live/p3C9n/R2XWy/1493.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | 4K",SporTV 4K [H265]
+http://csrv.tv:80/live/p3C9n/R2XWy/28657.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV FHD
+http://csrv.tv:80/live/p3C9n/R2XWy/1928.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV FHD [Alter]
+http://csrv.tv:80/live/p3C9n/R2XWy/45199.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV FHD [H265]
+http://csrv.tv:80/live/p3C9n/R2XWy/25417.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV FHD [H265] [Alter]
+http://csrv.tv:80/live/p3C9n/R2XWy/29437.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | SporTV",SporTV HD
+http://csrv.tv:80/live/p3C9n/R2XWy/1726.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV HD [Alter]
+http://csrv.tv:80/live/p3C9n/R2XWy/2330.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV SD
+http://csrv.tv:80/live/p3C9n/R2XWy/1731.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV SD [Alter]
+http://csrv.tv:80/live/p3C9n/R2XWy/2154.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV2 FHD [Alter]
+http://csrv.tv:80/live/p3C9n/R2XWy/45200.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV3 FHD [Alter]
+http://csrv.tv:80/live/p3C9n/R2XWy/45201.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History Channel FHD
